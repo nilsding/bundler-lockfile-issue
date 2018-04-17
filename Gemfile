@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
 gem "pry"
-gem "empyrean", "= 0.1.0"
+gem "empyrean", "= 0.1.1"
