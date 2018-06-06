@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     coderay (1.1.2)
-    empyrean (0.1.0)
+    empyrean (0.1.1)
     ffi (1.9.25-java)
     method_source (0.9.0)
     pry (0.11.3)
@@ -21,7 +21,7 @@ PLATFORMS
   universal-java-1.8
 
 DEPENDENCIES
-  empyrean (= 0.1.0)
+  empyrean (= 0.1.1)
   pry
 
 BUNDLED WITH
